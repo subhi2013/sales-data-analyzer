@@ -5,6 +5,7 @@
 A Python project that analyzes sales data using Pandas, NumPy, and Matplotlib.
 
 🚀 Features
+
 (1) Read sales data from a CSV file
 
 (2) Calculate revenue
@@ -24,6 +25,7 @@ A Python project that analyzes sales data using Pandas, NumPy, and Matplotlib.
 (9) Export the analysis to a CSV report
 
 🛠 Technologies Used
+
 (1) Python
 
 (2) Pandas
@@ -33,6 +35,7 @@ A Python project that analyzes sales data using Pandas, NumPy, and Matplotlib.
 (4) Matplotlib
 
 📂 Files
+
 sales_data_analyzer.py
 
 sales_data.csv
