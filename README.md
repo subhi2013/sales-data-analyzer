@@ -6,24 +6,37 @@ A Python project that analyzes sales data using Pandas, NumPy, and Matplotlib.
 
 🚀 Features
 (1) Read sales data from a CSV file
+
 (2) Calculate revenue
+
 (3) Calculate total revenue
+
 (4) Calculate total quantity sold
+
 (5) Find the best-selling product
+
 (6) Find the highest revenue product
+
 (7) Generate bar charts
+
 (8) Generate pie charts
+
 (9) Export the analysis to a CSV report
 
 🛠 Technologies Used
 (1) Python
+
 (2) Pandas
+
 (3) NumPy
+
 (4) Matplotlib
 
 📂 Files
 sales_data_analyzer.py
+
 sales_data.csv
+
 sales_report.csv
 
 ▶️ How to Run
@@ -39,8 +52,11 @@ python sales_data_analyzer.py
 📈 Output
 
 Revenue Bar Chart
+
 Revenue Pie Chart
+
 Sales Summary
+
 Exported Sales Report
 
 👩‍💻 Author
