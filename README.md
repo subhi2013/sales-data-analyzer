@@ -54,13 +54,15 @@ python sales_data_analyzer.py
 
 📈 Output
 
-Revenue Bar Chart
+project output
 
-Revenue Pie Chart
+revenue bar graph
 
-Sales Summary
+![bar graph](bar_graph.png)
 
-Exported Sales Report
+revenue pie chart
+
+![pie chart](pie_chart.png)
 
 👩‍💻 Author
 
